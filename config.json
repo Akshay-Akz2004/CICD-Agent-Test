@@ -1,0 +1,5 @@
+{
+  "service": "orders",
+  "replicas": 2,
+  "image": "ghcr.io/example/orders:1.4.0"
+}
